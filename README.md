@@ -19,5 +19,9 @@ In this project, we will build a Data Pipeline that will:
 2. Build a data model and load the data to postgresql database using python.
 3. Transfer the data from postgres to google cloud storage using python.
 4. Build a dimensional model and load the data to snowflake data warehouse using airbyte.
+<h2>YouTube API to Postgres Pipeline</h2>
+Khan academy is a most used online education platform. In this project, I am trying to find out answers to few questions. This analysis can help people who are trying to build education related content on youtube. 
+
+**Tech Stack:** Python, Data scraping, Postgres, Data Analysis and transformations.
 
 **Tech Stack:** Python, Postgres, SQL, Airbyte, Dimensional Modeling.
