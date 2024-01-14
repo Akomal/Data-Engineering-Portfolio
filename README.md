@@ -1,4 +1,4 @@
-# Data Engineering Portfolio
+# Portfolio Projects
 Greetings! My name is Komal, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find my personal projects which I have built as I learn new skills.
 
 <a href="https://github.com/Akomal/Eurovision-Data-Pipeline-using-GCP">Eurovision Data Pipeline using GCP</a>
