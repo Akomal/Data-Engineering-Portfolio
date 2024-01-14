@@ -1,9 +1,7 @@
 # Data Engineering Portfolio
 Greetings! My name is Komal, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find my personal projects which I have built as I learn new skills.
 
-<h2><a href="https://github.com/Akomal/Eurovision-Data-Pipeline-using-GCP">Eurovision Data Pipeline using GCP</a></h2>
-
-Used GCP, Airflow and python to build a data pipeline that cleans and transforms the data and make it avaible in BigQuery for visualizations.
+<a href="https://github.com/Akomal/Eurovision-Data-Pipeline-using-GCP">Eurovision Data Pipeline using GCP</a>
 
 
 
