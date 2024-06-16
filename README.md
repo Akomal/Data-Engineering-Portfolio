@@ -5,7 +5,7 @@ Greetings! My name is Komal, and I'm excited to share my still developing portfo
 
 <a href="https://github.com/Akomal/Eurovision-Data-Pipeline-using-GCP">ETL Pipeline using Python, PySpark, Airflow, and GCP</a>
 
-<a href="https://github.com/Akomal/Mlflow-Experiments">MLflow Model Repository: Streamlining MLOps with Experiments</a>
+<a href="https://github.com/Akomal/Automating-Machine-Learning-pipeline-using-MLflow">Automating Machine Learning pipeline using MLflow</a>
 
 <a href="https://github.com/Akomal/From-Superstore-Dataset-to-Snowflake-Data-Warehouse">From Superstore Dataset to Snowflake Data Warehouse</a>
 
