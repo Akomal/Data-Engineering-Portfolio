@@ -9,5 +9,5 @@ Greetings! My name is Komal, and I'm excited to share my still developing portfo
 
 <a href="https://github.com/Akomal/From-Superstore-Dataset-to-Snowflake-Data-Warehouse">From Superstore Dataset to Snowflake Data Warehouse</a>
 
-<a href="https://github.com/Akomal/YouTube-API-to-Postgres-Pipeline">YouTube API to Postgres Pipeline</a>
+<a href="https://github.com/Akomal/Analyzing-data-from-YouTube-API">Analyzing data from YouTube API</a>
 
