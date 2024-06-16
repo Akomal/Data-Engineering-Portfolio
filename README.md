@@ -3,7 +3,7 @@ Greetings! My name is Komal, and I'm excited to share my still developing portfo
 
 <a href="https://github.com/Akomal/Data-Transformation-Pipeline-with-Airflow">Data Transformation Pipeline with Airflow</a>
 
-<a href="https://github.com/Akomal/Eurovision-Data-Pipeline-using-GCP">Eurovision Data Pipeline using GCP</a>
+<a href="https://github.com/Akomal/Eurovision-Data-Pipeline-using-GCP">ETL Pipeline using Python, PySpark, Airflow, and GCP</a>
 
 <a href="https://github.com/Akomal/Mlflow-Experiments">MLflow Model Repository: Streamlining MLOps with Experiments</a>
 
