@@ -1,7 +1,7 @@
 # Portfolio Projects
 Greetings! My name is Komal, and I'm excited to share my still developing portfolio. Within this repository, you'll find my personal projects which I have built as I learn new skills.
 
-<a href="https://github.com/Akomal/AnimeOps/tree/main">Anime Ops- Data pipeline</a>
+<a href="https://github.com/Akomal/Data-Transformation-Pipeline-with-Airflow">Data Transformation Pipeline with Airflow</a>
 
 <a href="https://github.com/Akomal/Eurovision-Data-Pipeline-using-GCP">Eurovision Data Pipeline using GCP</a>
 
